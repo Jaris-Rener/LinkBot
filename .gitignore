@@ -4,6 +4,7 @@
 x64/
 [Bb]in/
 [Oo]bj/
+
 # build folder is nowadays used for build scripts and should not be ignored
 #build/
 
@@ -16,3 +17,4 @@ x64/
 
 **/config/config.json
 **/config/credentials.json
+.idea
