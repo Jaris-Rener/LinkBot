@@ -18,3 +18,4 @@ x64/
 **/config/config.json
 **/config/credentials.json
 .idea
+LinkBot/linkbot.tar
